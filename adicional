@@ -1,0 +1,5 @@
+npm init -y 
+npm install nodemon -D
+npm install express -E
+npm install zod -E 
+npm install cors -E
